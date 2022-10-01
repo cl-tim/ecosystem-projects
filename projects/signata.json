@@ -1,0 +1,23 @@
+{
+  "name": "Signata",
+  "slug": "signata",
+  "tags": [
+    "dapp",
+    "multi-chain",
+    "utility",
+    "tools"
+  ],
+  "status": "live",
+  "highlight": "Decentralized web3 identity management using NFT rights and soulbound tokens.",
+  "logo": "/img/signata.png",
+  "website": "https://signata.net/",
+  "twitter": "https://twitter.com/SignataOfficial",
+  "telegram": "https://t.me/signatanews",
+  "github": "https://github.com/congruentlabs/",
+  "discord": "https://discord.com/invite/pEJu4ZjnfX",
+  "summary": "Signata provides self-custody web3 identity management, purchasing NFT rights (including KYC proofs), and authentication tools for projects to add strong identity easily.",
+  "docs": "https://docs.signata.net/",
+  "cmc": "",
+  "date": "2022-09-26",
+  "token": "0xbec0A9aEa58b6a0c0f05a03078f7E7Dcecc13A95"
+}
